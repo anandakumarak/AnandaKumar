@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4E12AQFaLSNiDpYV1g/article-cover_image-shrink_600_2000/0/1686694179929?e=2147483647&v=beta&t=V9-iqKuW19byCSRylJGXFDpccKawJdaQu6-vhkMmDcM)]
+
 <h3 align="center">A passionate AI developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 - 🌱 I’m currently learning **Advance Python , Deep Learning , NLP ...**
