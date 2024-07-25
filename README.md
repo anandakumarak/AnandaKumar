@@ -1,5 +1,5 @@
 
-<h3 align="center">A passionate AI developer.</h3>
+<h3 align="center">AI Enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 - 🌱 I’m currently learning **Advance Python , Deep Learning , NLP ...**
 
